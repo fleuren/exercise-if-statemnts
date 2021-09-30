@@ -64,6 +64,7 @@ if (timeInput >= timePredef){
 */
 
 //Nested If - Earthquake (aka tsuki na naka-kape)	
+/*
 double magnitude;
 
 cout << "Please input a magnitude to be given a proper descriptor." << endl;
@@ -92,3 +93,4 @@ return 0;
 }
 
 
+*/
